@@ -1,3 +1,4 @@
+#Added something
 class Square:
     def __init__(self, d):
         self.d = d
